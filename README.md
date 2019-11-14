@@ -1,5 +1,5 @@
 # etj
-This is a converter that converts env to json
+JSON to env converter.
 
 # Example
 Use this sample env.
